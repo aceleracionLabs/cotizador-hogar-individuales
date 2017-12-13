@@ -26,6 +26,17 @@ h5 {
     margin-bottom: 10px;
 }
 
+h6 {
+    font-size: 12px;
+    color: #333;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.checkbox, .radio {
+    text-align: left !important;
+}
+
 p {
     color: #333333;
 }
